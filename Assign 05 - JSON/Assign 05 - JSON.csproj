@@ -90,6 +90,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
+    <Content Include="Scripts\MyScript.js" />
+    <Content Include="Styles\MyStyle.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
